@@ -15,4 +15,10 @@ public class BaseController {
         return ResponseEntity.ok(APIResponse.builder().message("API Running").build());
     }
 
+    @GetMapping(value = "/appcheck")
+    public ResponseEntity<APIResponse> checkApp () {
+        return ResponseEntity.ok(APIResponse.builder().message("API Running Checked").build());
+    }
+
+
 }
