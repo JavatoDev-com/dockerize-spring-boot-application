@@ -1,4 +1,5 @@
-# SIMPLE SPRING BOOT API
+# How to Dockerize Spring Boot Application
+
 <a href="https://javatodev.com/how-to-dockerize-spring-boot-application/" target="blank">
     <img align="center" src="https://javatodev.com/wp-content/uploads/2020/12/How-to-Dockerize-Spring-Boot-Application-800x450.png" 
 alt="How to Dockerize Spring Boot Application"/></a>
